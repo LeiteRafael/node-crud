@@ -10,4 +10,4 @@
 - PUT
 ![All](https://github.com/LeiteRafael/node-crud/blob/master/imagens/Put.PNG)
 - DELETE
-![All](https://github.com/LeiteRafael/node-crud/blob/master/imagens/Get_All.PNG)
+![All](https://github.com/LeiteRafael/node-crud/blob/master/imagens/Delete.PNG)
