@@ -1,5 +1,15 @@
 # Api de um Livraria
 ---
+Exemplo simpres de um crud aplicado a uma Livraria 
+---
+## Tools
+- Mongoose
+- Express
+## Conceitos
+- Model & Controller
+- Mongoose.Schema
+- Destructuring assignment (ES6 )
+---
 ### Metodos 
 - GET ALL
 ![All](https://github.com/LeiteRafael/node-crud/blob/master/imagens/Get_All.PNG)
