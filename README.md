@@ -1,6 +1,6 @@
-# Api de um Livraria
+# Api RESTful  de um Livraria
 ---
-Exemplo simpres de um crud aplicado a uma Livraria 
+Exemplo simples de um crud utilizando NodeJs e MongoDB aplicado a uma Livraria 
 ---
 ## Tools
 - Mongoose
