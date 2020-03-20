@@ -13,7 +13,7 @@ Exemplo simples de um crud utilizando NodeJs e MongoDB aplicado a uma Livraria
 ### Metodos 
 - GET ALL
 ![All](https://github.com/LeiteRafael/node-crud/blob/master/imagens/Get_All.PNG)
-- GET ISNB
+- GET ISBN
 ![ISBN](https://github.com/LeiteRafael/node-crud/blob/master/imagens/Get_ISBN.png)
 - POST
 ![All](https://github.com/LeiteRafael/node-crud/blob/master/imagens/Post.PNG)
