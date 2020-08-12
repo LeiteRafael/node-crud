@@ -1,4 +1,4 @@
-# Api RESTful  de um Livraria
+# Api REST de um Livraria
 ---
 Exemplo simples de um crud utilizando NodeJs e MongoDB aplicado a uma Livraria 
 ---
